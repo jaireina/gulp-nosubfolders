@@ -1,0 +1,29 @@
+{
+  "name": "gulp-nosubfolders",
+  "version": "1.0.0",
+  "description": "Remove all the subfolders structure from the files on the pipe so you can save all of them in one location",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaireina/gulp-nosubfolders.git"
+  },
+  "keywords": [
+    "subfolders",
+    "nosubfolders",
+    "subfolder",
+    "structure",
+    "remove"
+  ],
+  "author": "Jair Reina <jaireina@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jaireina/gulp-nosubfolders/issues"
+  },
+  "homepage": "https://github.com/jaireina/gulp-nosubfolders#readme",
+  "dependencies": {
+    "through2": "^2.0.0"
+  }
+}
